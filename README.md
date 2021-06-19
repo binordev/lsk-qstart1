@@ -31,8 +31,9 @@ When project is created you can see what it can do
 node ./bin/run
 # See options for starting
 node ./bin/run start -h
-# Start a fresh blockchain
+# Start a fresh blockchain node with a fresh genesis block
 node ./bin/run start
+# Ctrl-c to stop
 ```
 
 # --- Org README -------------------
